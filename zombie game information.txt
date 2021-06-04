@@ -1,0 +1,9 @@
+platfrom- visual studio
+game type- static,zombie game
+characters-man(PC),zombies(NPC)
+goal-50 zombies should be killed 
+
+
+
+1)create objects
+2)functionlity
